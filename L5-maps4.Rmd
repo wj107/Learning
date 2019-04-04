@@ -1,0 +1,33 @@
+---
+title: "L5-maps4"
+author: "wj107"
+date: "April 4, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Maps, part 4
+
+Per usual, last time I had grand goals, but only made it about two or three steps in.  Whatever.  I was grinding, figuring out some stuff... and made a decently cool map at the end, form KML data found online!  
+
+```{r chicago_base_map, echo=FALSE}
+
+
+5*6
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r , echo=FALSE}
+
+hist(rnorm(5000))
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
